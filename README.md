@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://linkedin.com/in/https://www.linkedin.com/in/burak-a%c3%a7ikg%c3%b6z-45a79a1b7/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="https://www.linkedin.com/in/burak-a%c3%a7ikg%c3%b6z-45a79a1b7/" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/https://www.linkedin.com/in/burak-a%c3%a7ikg%c3%b6z-45a79a1b7/" target="blank"><img align="center" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" alt="https://www.linkedin.com/in/burak-a%c3%a7ikg%c3%b6z-45a79a1b7/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
