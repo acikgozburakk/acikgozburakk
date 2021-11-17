@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
-<h3 align="center">I'm front-end developer </h1>
+<h3 align="center">I'm front-end developer from Turkey</h1>
 
 - 🌱 I’m currently learning **Javascript** and **frameworks**(**Vue.js**,**React**) 
 
